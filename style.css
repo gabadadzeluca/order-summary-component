@@ -1,0 +1,104 @@
+body{
+    background: hsl(225, 100%, 94%);
+    font-family: 'Red Hat Display', sans-serif;;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+}
+
+.card{
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background: white;
+    margin: 0 auto;
+    width: 450px;
+    height: 697px;
+    border-radius: 20px;
+}
+
+.image{
+    width: 450px;
+    height: 220px;
+}
+
+.summary{
+    text-align: center;
+    font-weight: 900;
+    font-size: 28px;
+}
+
+.describtion{
+    text-align: center;
+    margin: 0 48px;
+    color: #717FA6;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.plan{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #F7F9FF;
+    margin: 17px 48px 20px 48px;
+    border-radius: 11px;
+    height: 98px;
+}
+
+.plan>a{
+    margin-right: 24px;
+}
+
+.icon{
+    width: 48px;
+    height: 48px;
+    margin-left: 14px;
+}
+
+.block{
+    display: flex;
+    flex-direction: column;
+    margin-right: 40px;
+
+}
+
+.plan-name{
+    color: #1F2E55;
+    font-weight: 900;
+    font-size: 16px;
+}
+.plan-price{
+    color: #717FA6;
+    font-weight: 500;
+    font-size: 16px;
+}
+.buttons{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.proceed-btn{
+    text-align: center;
+    border: none;
+    width: 392px;
+    margin: 0 auto;
+    height: 50px;
+    background-color:  hsl(245, 75%, 52%);
+    color: white;
+    border-radius: 11px;
+    box-shadow: 0px 20px 20px rgba(56, 42, 225, 0.190291);    
+    font-weight: 700;
+    font-size: 15px;
+}
+
+.cancel-btn{
+    margin-top: 32px;
+    margin-bottom: 48px;
+    color: #717FA6;
+    font-weight: 700;
+}
