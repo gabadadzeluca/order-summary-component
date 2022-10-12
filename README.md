@@ -19,8 +19,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/gabadadzeluca/order-summary-component)
-- Live Site URL: [Add live site URL here](https://gabadadzeluca.github.io/order-summary-component/)
+- Solution URL: [GitHub](https://github.com/gabadadzeluca/order-summary-component)
+- Live Site URL: [Live Site](https://gabadadzeluca.github.io/order-summary-component/)
 
 ## My process
 
