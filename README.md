@@ -20,7 +20,7 @@
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/gabadadzeluca/order-summary-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://gabadadzeluca.github.io/order-summary-component/)
 
 ## My process
 
